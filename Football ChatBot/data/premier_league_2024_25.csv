@@ -1,0 +1,709 @@
+team,player,position,age,goals,assists,ga
+2024-2025 Arsenal,David Raya,GK,29-247,0,0,0
+2024-2025 Arsenal,William Saliba,DF,24-057,2,0,2
+2024-2025 Arsenal,Declan Rice,MF,26-126,9,10,19
+2024-2025 Arsenal,Thomas Partey,"MF,DF",31-341,4,2,6
+2024-2025 Arsenal,Jurriën Timber,DF,23-337,2,4,6
+2024-2025 Arsenal,Gabriel Magalhães,DF,27-152,5,1,6
+2024-2025 Arsenal,Gabriel Martinelli,"FW,MF",23-336,10,5,15
+2024-2025 Arsenal,Leandro Trossard,FW,30-167,10,8,18
+2024-2025 Arsenal,Martin Ødegaard,MF,26-154,5,11,16
+2024-2025 Arsenal,Kai Havertz,"FW,MF",25-343,15,4,19
+2024-2025 Arsenal,Bukayo Saka,"FW,MF",23-257,12,13,25
+2024-2025 Arsenal,Mikel Merino,"MF,FW",28-332,9,5,14
+2024-2025 Arsenal,Myles Lewis-Skelly,DF,18-236,1,1,2
+2024-2025 Arsenal,Jakub Kiwior,DF,25-094,1,2,3
+2024-2025 Arsenal,Riccardo Calafiori,DF,23-001,3,2,5
+2024-2025 Arsenal,Jorginho,MF,33-151,1,0,1
+2024-2025 Arsenal,Ben White,DF,27-224,0,1,1
+2024-2025 Arsenal,Ethan Nwaneri,"FW,MF",18-060,9,2,11
+2024-2025 Arsenal,Gabriel Jesus,"FW,MF",28-047,7,2,9
+2024-2025 Arsenal,Raheem Sterling,FW,30-163,1,5,6
+2024-2025 Arsenal,Oleksandr Zinchenko,"DF,MF",28-156,1,1,2
+2024-2025 Arsenal,Kieran Tierney,"FW,DF",27-349,0,0,0
+2024-2025 Arsenal,Neto,GK,35-305,0,0,0
+2024-2025 Arsenal,Josh Nichols,DF,18-298,0,0,0
+2024-2025 Arsenal,Jack Porter,GK,16-309,0,0,0
+2024-2025 Arsenal,Tommy Setford,GK,19-068,0,0,0
+2024-2025 Arsenal,Maldini Kacurri,DF,19-228,0,0,0
+2024-2025 Arsenal,Ayden Heaven,DF,18-240,0,0,0
+2024-2025 Arsenal,Ismeal Kabia,MF,19-161,0,0,0
+2024-2025 Arsenal,Nathan Butler-Oyedeji,FW,22-136,0,0,0
+2024-2025 Arsenal,Takehiro Tomiyasu,DF,26-196,0,0,0
+2024-2025 Arsenal,Reiss Nelson,FW,25-161,0,0,0
+2024-2025 Arsenal,Michal Rosiak,MF,19-220,0,0,0
+2024-2025 Arsenal,Jimi Gower,MF,20-231,0,0,0
+2024-2025 Arsenal,Josh Robinson,DF,20-151,0,0,0
+2024-2025 Arsenal,Jack Henry-Francis,MF,21-239,0,0,0
+2024-2025 Arsenal,Zane Monlouis,DF,21-216,0,0,0
+2024-2025 Arsenal,Eddie Nketiah,FW,25-355,0,0,0
+2024-2025 Arsenal,Aaron Ramsdale,GK,27-006,0,0,0
+2024-2025 Arsenal,Brayden Clarke,DF,17-321,0,0,0
+2024-2025 Arsenal,Salah Oulad M'Hand,MF,21-273,0,0,0
+2024-2025 Arsenal,Alexei Rojas,GK,19-234,0,0,0
+2024-2025 West Ham United,Max Kilman,DF,27-362,0,1,1
+2024-2025 West Ham United,Aaron Wan-Bissaka,DF,27-175,2,4,6
+2024-2025 West Ham United,Jarrod Bowen,"FW,MF",28-151,13,7,20
+2024-2025 West Ham United,Tomáš Souček,MF,30-082,9,1,10
+2024-2025 West Ham United,Mohammed Kudus,"FW,MF",24-291,4,4,8
+2024-2025 West Ham United,Lucas Paquetá,"MF,FW",27-266,5,0,5
+2024-2025 West Ham United,Alphonse Areola,GK,32-082,0,0,0
+2024-2025 West Ham United,Emerson Palmieri,DF,30-290,2,1,3
+2024-2025 West Ham United,Konstantinos Mavropanos,DF,27-160,0,0,0
+2024-2025 West Ham United,Edson Álvarez,MF,27-208,0,1,1
+2024-2025 West Ham United,Jean-Clair Todibo,DF,25-141,0,0,0
+2024-2025 West Ham United,Carlos Soler,"MF,FW",28-138,1,1,2
+2024-2025 West Ham United,Łukasz Fabiański,GK,40-032,0,0,0
+2024-2025 West Ham United,Vladimír Coufal,DF,32-271,0,0,0
+2024-2025 West Ham United,Guido Rodríguez,MF,31-038,0,0,0
+2024-2025 West Ham United,James Ward-Prowse,MF,30-200,0,1,1
+2024-2025 West Ham United,Crysencio Summerville,"FW,MF",23-202,1,2,3
+2024-2025 West Ham United,Aaron Cresswell,DF,35-156,0,0,0
+2024-2025 West Ham United,Michail Antonio,FW,35-053,1,1,2
+2024-2025 West Ham United,Niclas Füllkrug,FW,32-100,3,2,5
+2024-2025 West Ham United,Oliver Scarles,DF,19-159,0,0,0
+2024-2025 West Ham United,Danny Ings,"FW,MF",32-301,1,2,3
+2024-2025 West Ham United,Andy Irving,MF,25-007,0,0,0
+2024-2025 West Ham United,Evan Ferguson,FW,20-213,0,0,0
+2024-2025 West Ham United,Luis Guilherme,"MF,FW",19-100,0,0,0
+2024-2025 West Ham United,Lewis Orford,MF,19-091,0,0,0
+2024-2025 West Ham United,Kaelan Casey,DF,20-204,0,0,0
+2024-2025 West Ham United,Wes Foderingham,GK,34-126,0,0,0
+2024-2025 West Ham United,Ezra Mayers,DF,18-124,0,0,0
+2024-2025 Brighton & Hove Albion,Bart Verbruggen,GK,22-275,0,1,1
+2024-2025 Brighton & Hove Albion,Jan Paul van Hecke,DF,24-346,1,1,2
+2024-2025 Brighton & Hove Albion,Carlos Baleba,MF,21-137,4,2,6
+2024-2025 Brighton & Hove Albion,Kaoru Mitoma,"FW,MF",28-000,11,3,14
+2024-2025 Brighton & Hove Albion,Pervis Estupiñán,DF,27-119,1,1,2
+2024-2025 Brighton & Hove Albion,Danny Welbeck,FW,34-175,11,4,15
+2024-2025 Brighton & Hove Albion,Yasin Ayari,MF,21-226,2,1,3
+2024-2025 Brighton & Hove Albion,Yankuba Minteh,"FW,MF",20-302,7,5,12
+2024-2025 Brighton & Hove Albion,Jack Hinshelwood,"DF,MF",20-039,3,2,5
+2024-2025 Brighton & Hove Albion,Lewis Dunk,DF,33-180,0,0,0
+2024-2025 Brighton & Hove Albion,João Pedro,"FW,MF",23-236,10,7,17
+2024-2025 Brighton & Hove Albion,Georginio Rutter,"MF,FW",23-030,8,4,12
+2024-2025 Brighton & Hove Albion,Joël Veltman,DF,33-125,0,2,2
+2024-2025 Brighton & Hove Albion,Simon Adingra,"FW,MF",23-139,5,2,7
+2024-2025 Brighton & Hove Albion,Adam Webster,DF,30-136,1,1,2
+2024-2025 Brighton & Hove Albion,Tariq Lamptey,DF,24-232,3,2,5
+2024-2025 Brighton & Hove Albion,Igor,DF,27-102,0,0,0
+2024-2025 Brighton & Hove Albion,Mats Wieffer,"MF,DF",25-185,1,3,4
+2024-2025 Brighton & Hove Albion,Matt O'Riley,MF,24-180,1,2,3
+2024-2025 Brighton & Hove Albion,Brajan Gruda,"MF,FW",20-354,1,5,6
+2024-2025 Brighton & Hove Albion,Diego Gómez,MF,22-054,0,0,0
+2024-2025 Brighton & Hove Albion,Julio Enciso,"MF,FW",21-117,1,1,2
+2024-2025 Brighton & Hove Albion,Jason Steele,GK,34-275,0,0,0
+2024-2025 Brighton & Hove Albion,Ferdi Kadioglu,"DF,MF",25-225,2,0,2
+2024-2025 Brighton & Hove Albion,Evan Ferguson,FW,20-213,1,0,1
+2024-2025 Brighton & Hove Albion,Solly March,"FW,MF",30-304,1,1,2
+2024-2025 Brighton & Hove Albion,James Milner,MF,39-136,0,0,0
+2024-2025 Brighton & Hove Albion,Jakub Moder,MF,26-043,0,0,0
+2024-2025 Brighton & Hove Albion,Billy Gilmour,MF,23-343,0,0,0
+2024-2025 Brighton & Hove Albion,Jeremy Sarmiento,MF,22-338,1,0,1
+2024-2025 Brighton & Hove Albion,Mark O'Mahony,FW,20-126,1,0,1
+2024-2025 Brighton & Hove Albion,Imari Samuels,DF,22-104,0,0,0
+2024-2025 Brighton & Hove Albion,Ruairi Mcconville,DF,20-019,0,0,0
+2024-2025 Brighton & Hove Albion,Eiran Cashin,DF,23-192,0,0,0
+2024-2025 Brighton & Hove Albion,Cameron Peupion,MF,22-239,0,1,1
+2024-2025 Brighton & Hove Albion,Jensen Weir,MF,23-109,0,0,0
+2024-2025 Brighton & Hove Albion,Odeluga Offiah,DF,22-206,0,0,0
+2024-2025 Brighton & Hove Albion,Harry Howell,FW,16-233,0,0,0
+2024-2025 Brighton & Hove Albion,Jacob Slater,DF,20-227,0,0,0
+2024-2025 Brighton & Hove Albion,Joe Knight,MF,19-241,0,0,0
+2024-2025 Brighton & Hove Albion,Charlie Tasker,DF,19-085,0,0,0
+2024-2025 Brighton & Hove Albion,Freddie Simmonds,DF,17-072,0,0,0
+2024-2025 Brighton & Hove Albion,Thomas Mcgill,GK,25-056,0,0,0
+2024-2025 Brighton & Hove Albion,Ed Turns,DF,22-214,0,0,0
+2024-2025 Brighton & Hove Albion,Amario Duberry,FW,19-356,0,0,0
+2024-2025 Brighton & Hove Albion,Malick Yalcouye,MF,19-183,0,0,0
+2024-2025 Brighton & Hove Albion,Killian Cahill,GK,21-198,0,0,0
+2024-2025 Brighton & Hove Albion,Carl Rushworth,GK,23-322,0,0,0
+2024-2025 Brighton & Hove Albion,Valentín Barco,MF,20-301,0,0,0
+2024-2025 Burnley,Maxime Estève,DF,22-360,1,0,1
+2024-2025 Burnley,James Trafford,GK,22-223,0,0,0
+2024-2025 Burnley,Josh Cullen,MF,29-044,2,3,5
+2024-2025 Burnley,CJ Egan-Riley,DF,22-139,1,1,2
+2024-2025 Burnley,Connor Roberts,DF,29-240,2,3,5
+2024-2025 Burnley,Jaidon Anthony,"FW,MF",25-171,8,7,15
+2024-2025 Burnley,Josh Brownhill,"MF,FW",29-153,18,6,24
+2024-2025 Burnley,Lucas,DF,24-058,0,2,2
+2024-2025 Burnley,Josh Laurent,MF,30-015,2,2,4
+2024-2025 Burnley,Zian Flemming,FW,26-293,14,4,18
+2024-2025 Burnley,Hannibal Mejbri,"MF,FW",22-120,1,5,6
+2024-2025 Burnley,Bashir Humphreys,DF,22-067,1,2,3
+2024-2025 Burnley,Luca Koleosho,"FW,MF",20-248,2,0,2
+2024-2025 Burnley,Lyle Foster,FW,24-260,3,5,8
+2024-2025 Burnley,Jeremy Sarmiento,"FW,MF",22-339,4,0,4
+2024-2025 Burnley,Marcus Edwards,"FW,MF",26-169,2,1,3
+2024-2025 Burnley,Jay Rodriguez,FW,35-296,2,0,2
+2024-2025 Burnley,Joe Worrall,DF,28-131,0,1,1
+2024-2025 Burnley,Václav Hladký,GK,34-188,0,0,0
+2024-2025 Burnley,Ashley Barnes,"FW,MF",35-203,1,1,2
+2024-2025 Burnley,Andreas Hountondji,"FW,MF",22-314,0,0,0
+2024-2025 Burnley,Oliver Sonne,DF,24-192,0,0,0
+2024-2025 Burnley,John Egan,DF,32-213,0,0,0
+2024-2025 Burnley,Vitinho,"MF,FW",25-302,1,1,2
+2024-2025 Burnley,Han-Noah Massengo,MF,23-318,0,1,1
+2024-2025 Burnley,Dara O'Shea,DF,26-078,1,0,1
+2024-2025 Burnley,Benson Manuel,"MF,FW",28-054,1,0,1
+2024-2025 Burnley,Joe Bauress,MF,19-140,0,1,1
+2024-2025 Burnley,Tommy McDermott,MF,19-354,0,0,0
+2024-2025 Burnley,Jonjo Shelvey,"MF,FW",33-083,0,0,0
+2024-2025 Burnley,Shurandy Sambo,MF,23-275,0,0,0
+2024-2025 Burnley,Luke McNally,"DF,MF",25-243,0,0,0
+2024-2025 Burnley,Wilson Odobert,MF,20-174,1,0,1
+2024-2025 Burnley,Enock Agyei,"FW,MF",20-128,0,0,0
+2024-2025 Burnley,Hjalmar Ekdal,DF,26-212,0,0,0
+2024-2025 Burnley,Zeki Amdouni,MF,24-168,1,0,1
+2024-2025 Burnley,Mike Trésor,"FW,MF",25-358,0,1,1
+2024-2025 Burnley,Anass Zaroury,"FW,MF",24-195,0,0,0
+2024-2025 Burnley,Wout Weghorst,FW,32-287,0,0,0
+2024-2025 Burnley,Jaydon Amauri Banel,"FW,MF",20-214,0,0,0
+2024-2025 Burnley,Nathan Redmond,FW,31-076,0,1,1
+2024-2025 Burnley,Jóhann Berg Guðmundsson,MF,34-206,1,0,1
+2024-2025 Burnley,Will Hugill,MF,20-328,0,0,0
+2024-2025 Burnley,Aaron Ramsey,MF,22-120,0,0,0
+2024-2025 Burnley,Joe Westley,FW,20-215,0,0,0
+2024-2025 Burnley,Charlie Veevers,MF,20-097,0,0,0
+2024-2025 Burnley,Tom Tweedy,FW,20-248,0,0,0
+2024-2025 Burnley,Vernon Masara,MF,18-033,0,0,0
+2024-2025 Burnley,Owen Dodgson,"DF,MF",22-063,0,0,0
+2024-2025 Burnley,Hannes Delcroix,DF,26-082,0,0,0
+2024-2025 Burnley,Scott Twine,"FW,MF",25-311,0,0,0
+2024-2025 Burnley,Etienne Green,GK,24-306,0,0,0
+2024-2025 Brentford,Nathan Collins,DF,24-020,2,3,5
+2024-2025 Brentford,Bryan Mbeumo,FW,25-286,19,8,27
+2024-2025 Brentford,Mark Flekken,GK,31-341,0,2,2
+2024-2025 Brentford,Keane Lewis-Potter,"DF,FW",24-087,2,3,5
+2024-2025 Brentford,Mikkel Damsgaard,"MF,FW",24-321,3,10,13
+2024-2025 Brentford,Yoane Wissa,FW,28-259,20,4,24
+2024-2025 Brentford,Sepp van den Berg,DF,23-151,0,0,0
+2024-2025 Brentford,Christian Nørgaard,MF,31-071,6,3,9
+2024-2025 Brentford,Kevin Schade,FW,23-174,12,3,15
+2024-2025 Brentford,Vitaly Janelt,MF,27-010,1,3,4
+2024-2025 Brentford,Ethan Pinnock,DF,31-356,2,0,2
+2024-2025 Brentford,Yehor Yarmoliuk,MF,21-080,0,0,0
+2024-2025 Brentford,Kristoffer Ajer,DF,27-033,0,0,0
+2024-2025 Brentford,Mads Roerslev,DF,25-330,0,2,2
+2024-2025 Brentford,Mathias Jensen,MF,29-139,0,2,2
+2024-2025 Brentford,Fabio Carvalho,"FW,MF",22-263,3,3,6
+2024-2025 Brentford,Ben Mee,DF,35-241,0,0,0
+2024-2025 Brentford,Michael Kayode,DF,20-314,0,1,1
+2024-2025 Brentford,Hákon Rafn Valdimarsson,GK,23-219,0,0,0
+2024-2025 Brentford,Edmond-Paris Maghoma,"MF,FW",24-012,0,0,0
+2024-2025 Brentford,Jayden Meghoma,DF,18-326,0,0,0
+2024-2025 Brentford,Ryan Trevitt,MF,22-069,0,0,0
+2024-2025 Brentford,Thiago,"FW,MF",23-328,0,0,0
+2024-2025 Brentford,Rico Henry,DF,27-316,0,0,0
+2024-2025 Brentford,Kim Jisoo,DF,20-147,0,0,0
+2024-2025 Brentford,Frank Onyeka,MF,27-139,0,0,0
+2024-2025 Brentford,Yunus Emre Konak,"FW,MF",19-130,0,0,0
+2024-2025 Brentford,Gustavo Nunes,"FW,MF",19-181,0,0,0
+2024-2025 Brentford,Myles Peart-Harris,MF,22-244,0,0,0
+2024-2025 Brentford,Tony Yogane,MF,19-238,0,0,0
+2024-2025 Brentford,Matthew Cox,GK,22-018,0,0,0
+2024-2025 Brentford,Julian Eyestone,GK,19-029,0,0,0
+2024-2025 Brentford,Benjamin Arthur,DF,19-223,0,0,0
+2024-2025 Brentford,Iwan Morgan,FW,19-111,0,0,0
+2024-2025 Brentford,Benjamin Fredrick,DF,19-357,0,0,0
+2024-2025 Everton,Jordan Pickford,GK,31-075,0,1,1
+2024-2025 Everton,Vitaliy Mykolenko,DF,25-357,1,2,3
+2024-2025 Everton,Idrissa Gana Gueye,MF,35-237,0,3,3
+2024-2025 Everton,James Tarkowski,DF,32-183,1,1,2
+2024-2025 Everton,Iliman Ndiaye,FW,25-076,11,0,11
+2024-2025 Everton,Abdoulaye Doucouré,MF,32-140,4,2,6
+2024-2025 Everton,Jarrad Branthwaite,DF,22-328,0,1,1
+2024-2025 Everton,Jack Harrison,FW,28-182,1,0,1
+2024-2025 Everton,Ashley Young,DF,39-316,1,3,4
+2024-2025 Everton,Jake O'Brien,DF,24-006,2,1,3
+2024-2025 Everton,Beto,FW,27-110,10,0,10
+2024-2025 Everton,James Garner,"MF,DF",24-069,0,1,1
+2024-2025 Everton,Dominic Calvert-Lewin,FW,28-066,3,1,4
+2024-2025 Everton,Dwight McNeil,"MF,FW",25-180,5,6,11
+2024-2025 Everton,Jesper Lindstrøm,FW,25-081,0,1,1
+2024-2025 Everton,Orel Mangala,MF,27-064,1,0,1
+2024-2025 Everton,Michael Keane,DF,32-130,3,1,4
+2024-2025 Everton,Carlos Alcaraz,"FW,MF",22-172,1,3,4
+2024-2025 Everton,Tim Iroegbunam,MF,21-325,0,2,2
+2024-2025 Everton,Nathan Patterson,DF,23-217,0,1,1
+2024-2025 Everton,Armando Broja,FW,23-253,0,0,0
+2024-2025 Everton,Séamus Coleman,DF,36-222,0,0,0
+2024-2025 Everton,Roman Dixon,DF,20-146,0,0,0
+2024-2025 Everton,Harrison Armstrong,MF,18-122,0,1,1
+2024-2025 Everton,João Virgínia,GK,25-223,0,0,0
+2024-2025 Everton,Youssef Chermiti,"FW,MF",20-362,0,0,0
+2024-2025 Everton,Mason Holgate,"FW,DF",28-211,0,0,0
+2024-2025 Everton,Neal Maupay,"FW,MF",28-280,0,0,0
+2024-2025 Everton,Asmir Begović,GK,37-335,0,0,0
+2024-2025 Everton,Jenson Metcalfe,MF,20-257,0,0,0
+2024-2025 Everton,Martin Sherif,FW,18-345,0,0,0
+2024-2025 Everton,Coby Ebere,MF,19-246,0,0,0
+2024-2025 Everton,Isaac Heath,FW,20-205,0,0,0
+2024-2025 Everton,Callum Bates,MF,19-235,0,0,0
+2024-2025 Everton,Žan Leban,GK,23-140,0,0,0
+2024-2025 Everton,Luke Butterfield,MF,21-234,0,0,0
+2024-2025 Everton,Owen Barker,MF,20-087,0,0,0
+2024-2025 Everton,Bradley Moonan,DF,,0,0,0
+2024-2025 Aston Villa,Emiliano Martínez,GK,32-260,0,0,0
+2024-2025 Aston Villa,Youri Tielemans,MF,28-013,5,10,15
+2024-2025 Aston Villa,Morgan Rogers,"MF,FW",22-298,14,13,27
+2024-2025 Aston Villa,Ezri Konsa,DF,27-209,3,0,3
+2024-2025 Aston Villa,Ollie Watkins,FW,29-141,17,14,31
+2024-2025 Aston Villa,Lucas Digne,DF,31-304,0,6,6
+2024-2025 Aston Villa,John McGinn,"MF,FW",30-214,4,6,10
+2024-2025 Aston Villa,Boubacar Kamara,"MF,DF",25-178,1,0,1
+2024-2025 Aston Villa,Matty Cash,"DF,FW",27-286,1,1,2
+2024-2025 Aston Villa,Pau Torres,DF,28-124,0,2,2
+2024-2025 Aston Villa,Jacob Ramsey,FW,23-357,4,5,9
+2024-2025 Aston Villa,Leon Bailey,FW,27-284,2,4,6
+2024-2025 Aston Villa,Amadou Onana,MF,23-277,5,0,5
+2024-2025 Aston Villa,Ian Maatsen,"DF,FW",23-071,2,2,4
+2024-2025 Aston Villa,Tyrone Mings,DF,32-068,0,0,0
+2024-2025 Aston Villa,Diego Carlos,DF,32-066,0,0,0
+2024-2025 Aston Villa,Marco Asensio,MF,29-119,8,1,9
+2024-2025 Aston Villa,Jáder Durán,FW,21-158,12,0,12
+2024-2025 Aston Villa,Marcus Rashford,FW,27-201,4,5,9
+2024-2025 Aston Villa,Lamare Bogarde,"DF,MF",21-135,0,0,0
+2024-2025 Aston Villa,Ross Barkley,MF,31-166,4,1,5
+2024-2025 Aston Villa,Axel Disasi,DF,27-070,0,0,0
+2024-2025 Aston Villa,Jaden Philogene Bidace,FW,23-101,0,0,0
+2024-2025 Aston Villa,Andrés García,"DF,MF",22-102,0,0,0
+2024-2025 Aston Villa,Emi Buendía,"FW,MF",28-146,1,0,1
+2024-2025 Aston Villa,Donyell Malen,FW,26-131,3,0,3
+2024-2025 Aston Villa,Kosta Nedeljković,"FW,DF",19-155,0,0,0
+2024-2025 Aston Villa,Robin Olsen,GK,35-132,0,0,0
+2024-2025 Aston Villa,Joe Gauci,GK,24-320,0,0,0
+2024-2025 Aston Villa,Kadan Young,MF,19-121,0,0,0
+2024-2025 Aston Villa,Sil Swinkels,DF,21-134,0,0,0
+2024-2025 Aston Villa,Aidan Borland,MF,18-025,0,0,0
+2024-2025 Aston Villa,Jamaldeen Jimoh,MF,18-230,0,0,0
+2024-2025 Aston Villa,Benjamin Broggio,FW,18-111,0,0,0
+2024-2025 Aston Villa,Travis Patterson,DF,19-226,0,0,0
+2024-2025 Aston Villa,Sam Proctor,GK,18-150,0,0,0
+2024-2025 Aston Villa,Oliwier Zych,GK,20-326,0,0,0
+2024-2025 Aston Villa,Triston Rowe,DF,19-002,0,0,0
+2024-2025 Aston Villa,Bradley Paul Burrowes,MF,17-077,0,0,0
+2024-2025 Aston Villa,Kobei Moore,FW,20-171,0,0,0
+2024-2025 Bournemouth,Milos Kerkez,DF,21-194,2,5,7
+2024-2025 Bournemouth,Antoine Semenyo,FW,25-133,11,6,17
+2024-2025 Bournemouth,Lewis Cook,"MF,DF",28-106,1,3,4
+2024-2025 Bournemouth,Illia Zabarnyi,DF,22-261,0,0,0
+2024-2025 Bournemouth,Kepa Arrizabalaga,GK,30-229,0,0,0
+2024-2025 Bournemouth,Dean Huijsen,DF,20-036,3,1,4
+2024-2025 Bournemouth,Justin Kluivert,"MF,FW",26-015,13,8,21
+2024-2025 Bournemouth,Ryan Christie,MF,30-087,2,3,5
+2024-2025 Bournemouth,Evanilson,FW,25-226,12,1,13
+2024-2025 Bournemouth,Dango Ouattara,FW,23-098,9,4,13
+2024-2025 Bournemouth,Tyler Adams,MF,26-095,0,3,3
+2024-2025 Bournemouth,Marcus Tavernier,"FW,MF",26-059,3,5,8
+2024-2025 Bournemouth,Adam Smith,DF,34-021,0,0,0
+2024-2025 Bournemouth,Marcos Senesi,DF,28-010,0,0,0
+2024-2025 Bournemouth,David Brooks,"FW,MF",27-316,2,2,4
+2024-2025 Bournemouth,Alex Scott,MF,21-272,0,0,0
+2024-2025 Bournemouth,James Hill,DF,23-130,0,1,1
+2024-2025 Bournemouth,Mark Travers,GK,26-002,0,0,0
+2024-2025 Bournemouth,Julian Araujo,DF,23-280,0,0,0
+2024-2025 Bournemouth,Enes Ünal,"FW,MF",28-010,2,1,3
+2024-2025 Bournemouth,Luis Sinisterra,"FW,MF",25-337,1,1,2
+2024-2025 Bournemouth,Neto,GK,35-305,0,0,0
+2024-2025 Bournemouth,Daniel Jebbison,FW,21-280,2,0,2
+2024-2025 Bournemouth,Philip Billing,MF,28-343,0,0,0
+2024-2025 Bournemouth,Ben Winterburn,"FW,MF",20-258,0,0,0
+2024-2025 Bournemouth,Julio Soler,FW,20-093,0,0,0
+2024-2025 Bournemouth,Max Aarons,DF,25-136,0,0,0
+2024-2025 Bournemouth,Remy Rees-Dottin,FW,19-075,0,0,0
+2024-2025 Bournemouth,Zain Silcott-Duberry,FW,19-315,0,0,0
+2024-2025 Bournemouth,Maxwell Wellings,DF,20-107,0,0,0
+2024-2025 Bournemouth,Will Dennis,GK,24-314,0,0,0
+2024-2025 Bournemouth,Hamed Junior Traorè,"FW,MF",25-093,0,0,0
+2024-2025 Bournemouth,Jaidon Anthony,"FW,MF",25-170,0,0,0
+2024-2025 Bournemouth,Matai Akinmboni,DF,18-215,0,0,0
+2024-2025 Bournemouth,Dominic Sadi,MF,21-260,0,0,0
+2024-2025 Bournemouth,Callan Mckenna,GK,18-149,0,0,0
+2024-2025 Bournemouth,Daniel Adu-Adjei,FW,19-333,0,0,0
+2024-2025 Bournemouth,Archie Harris,DF,20-144,0,0,0
+2024-2025 Liverpool,Mohamed Salah,FW,32-339,33,23,56
+2024-2025 Liverpool,Virgil van Dijk,DF,33-316,5,1,6
+2024-2025 Liverpool,Ryan Gravenberch,MF,23-004,0,4,4
+2024-2025 Liverpool,Alexis Mac Allister,MF,26-147,7,6,13
+2024-2025 Liverpool,Dominik Szoboszlai,MF,24-207,8,8,16
+2024-2025 Liverpool,Ibrahima Konaté,DF,25-360,2,2,4
+2024-2025 Liverpool,Luis Díaz,FW,28-127,17,5,22
+2024-2025 Liverpool,Andrew Robertson,DF,31-070,0,2,2
+2024-2025 Liverpool,Alisson,GK,32-230,0,0,0
+2024-2025 Liverpool,Trent Alexander-Arnold,DF,26-225,4,7,11
+2024-2025 Liverpool,Cody Gakpo,FW,26-013,18,5,23
+2024-2025 Liverpool,Curtis Jones,MF,24-110,3,6,9
+2024-2025 Liverpool,Darwin Núñez,FW,25-330,7,5,12
+2024-2025 Liverpool,Diogo Jota,FW,28-167,9,3,12
+2024-2025 Liverpool,Caoimhín Kelleher,GK,26-178,0,0,0
+2024-2025 Liverpool,Kostas Tsimikas,DF,29-008,0,2,2
+2024-2025 Liverpool,Conor Bradley,DF,21-315,0,4,4
+2024-2025 Liverpool,Jarell Quansah,DF,22-111,0,0,0
+2024-2025 Liverpool,Joe Gomez,DF,27-362,0,0,0
+2024-2025 Liverpool,Wataru Endo,"MF,DF",32-100,0,0,0
+2024-2025 Liverpool,Harvey Elliott,"MF,FW",22-046,5,3,8
+2024-2025 Liverpool,Federico Chiesa,FW,27-207,2,1,3
+2024-2025 Liverpool,Tyler Morton,MF,22-201,0,1,1
+2024-2025 Liverpool,James McConnell,MF,20-249,0,0,0
+2024-2025 Liverpool,Trey Nyoni,"MF,FW",17-324,0,1,1
+2024-2025 Liverpool,Jayden Danns,FW,19-124,1,0,1
+2024-2025 Liverpool,Vitezslav Jaros,GK,23-301,0,0,0
+2024-2025 Liverpool,Rio Ngumoha,FW,16-264,0,0,0
+2024-2025 Liverpool,Isaac Mabaya,MF,20-240,0,0,0
+2024-2025 Liverpool,Trent Doherty,MF,18-324,0,0,0
+2024-2025 Liverpool,Amara Nallo,DF,18-183,0,0,0
+2024-2025 Liverpool,James Norris,DF,22-046,0,0,0
+2024-2025 Liverpool,Harvey Davies,GK,21-259,0,0,0
+2024-2025 Liverpool,Kieran Morrison,MF,18-192,0,0,0
+2024-2025 Liverpool,Ranel Young,MF,19-145,0,0,0
+2024-2025 Manchester City,Joško Gvardiol,DF,23-117,6,1,7
+2024-2025 Manchester City,Bernardo Silva,"MF,FW",30-283,4,4,8
+2024-2025 Manchester City,Erling Haaland,FW,24-303,30,4,34
+2024-2025 Manchester City,Ederson,GK,31-276,0,4,4
+2024-2025 Manchester City,Rico Lewis,"DF,MF",20-180,2,5,7
+2024-2025 Manchester City,Rúben Dias,DF,28-006,0,0,0
+2024-2025 Manchester City,İlkay Gündoğan,MF,34-208,2,5,7
+2024-2025 Manchester City,Phil Foden,"MF,FW",24-357,10,5,15
+2024-2025 Manchester City,Mateo Kovačić,MF,31-014,7,2,9
+2024-2025 Manchester City,Sávio,"FW,MF",21-040,2,10,12
+2024-2025 Manchester City,Manuel Akanji,DF,29-305,0,1,1
+2024-2025 Manchester City,Matheus Nunes,"MF,DF",26-266,4,9,13
+2024-2025 Manchester City,Kevin De Bruyne,MF,33-326,6,8,14
+2024-2025 Manchester City,Jeremy Doku,FW,22-358,6,9,15
+2024-2025 Manchester City,Stefan Ortega,GK,32-195,0,0,0
+2024-2025 Manchester City,Jack Grealish,"FW,MF",29-252,3,5,8
+2024-2025 Manchester City,Omar Marmoush,FW,26-102,7,1,8
+2024-2025 Manchester City,Nico O’Reilly,FW,20-060,5,2,7
+2024-2025 Manchester City,Kyle Walker,DF,34-357,0,0,0
+2024-2025 Manchester City,John Stones,"DF,MF",30-357,3,2,5
+2024-2025 Manchester City,Nathan Aké,DF,30-091,0,0,0
+2024-2025 Manchester City,James Mcatee,"MF,FW",22-214,7,0,7
+2024-2025 Manchester City,Nicolás González,MF,23-137,1,0,1
+2024-2025 Manchester City,Abdukodir Khusanov,DF,21-080,1,0,1
+2024-2025 Manchester City,Jahmai Simpson-Pusey,DF,19-197,0,0,0
+2024-2025 Manchester City,Rodri,MF,28-332,0,0,0
+2024-2025 Manchester City,Vitor Reis,DF,19-128,0,0,0
+2024-2025 Manchester City,Divin Mubama,FW,20-207,1,0,1
+2024-2025 Manchester City,Oscar Bobb,FW,21-312,0,1,1
+2024-2025 Manchester City,Kaden Braithwaite,DF,17-101,0,0,0
+2024-2025 Manchester City,Jacob Wright,MF,19-241,0,0,0
+2024-2025 Manchester City,Claudio Echeverri,MF,19-138,0,0,0
+2024-2025 Manchester City,Scott Carson,GK,39-259,0,0,0
+2024-2025 Manchester City,Max Alleyne,DF,19-266,0,0,0
+2024-2025 Manchester City,Josh Wilson-Esbrand,DF,22-145,0,0,0
+2024-2025 Manchester City,Max Hudson,GK,17-242,0,0,0
+2024-2025 Manchester City,Issa Kaboré,"DF,MF",24-008,0,0,0
+2024-2025 Manchester City,Thorsten Brits,GK,17-330,0,0,0
+2024-2025 Manchester City,Kalvin Phillips,"DF,MF",29-169,0,0,0
+2024-2025 Manchester City,Farid Alfa-Ruprecht,FW,19-053,0,0,0
+2024-2025 Manchester United,Bruno Fernandes,MF,30-254,19,17,36
+2024-2025 Manchester United,André Onana,GK,29-048,0,0,0
+2024-2025 Manchester United,Diogo Dalot,DF,26-063,3,5,8
+2024-2025 Manchester United,Noussair Mazraoui,DF,27-187,0,2,2
+2024-2025 Manchester United,Alejandro Garnacho,"MF,FW",20-323,11,10,21
+2024-2025 Manchester United,Rasmus Højlund,FW,22-105,10,2,12
+2024-2025 Manchester United,Matthijs de Ligt,DF,25-281,2,0,2
+2024-2025 Manchester United,Manuel Ugarte Ribeiro,MF,24-039,2,6,8
+2024-2025 Manchester United,Lisandro Martínez,DF,27-122,2,2,4
+2024-2025 Manchester United,Casemiro,MF,33-086,5,2,7
+2024-2025 Manchester United,Harry Maguire,DF,32-076,4,1,5
+2024-2025 Manchester United,Amad Diallo,"MF,FW",22-313,10,8,18
+2024-2025 Manchester United,Joshua Zirkzee,"FW,MF",23-363,7,2,9
+2024-2025 Manchester United,Kobbie Mainoo,MF,20-031,2,1,3
+2024-2025 Manchester United,Leny Yoro,DF,19-188,1,1,2
+2024-2025 Manchester United,Christian Eriksen,MF,33-095,4,5,9
+2024-2025 Manchester United,Marcus Rashford,"FW,MF",27-201,7,3,10
+2024-2025 Manchester United,Patrick Dorgu,DF,20-206,0,0,0
+2024-2025 Manchester United,Victor Lindelöf,DF,30-307,0,0,0
+2024-2025 Manchester United,Altay Bayındır,GK,27-036,0,0,0
+2024-2025 Manchester United,Mason Mount,MF,26-130,3,0,3
+2024-2025 Manchester United,Jonny Evans,DF,37-137,1,0,1
+2024-2025 Manchester United,Luke Shaw,DF,29-312,0,0,0
+2024-2025 Manchester United,Toby Collyer,MF,21-137,0,0,0
+2024-2025 Manchester United,Antony,"DF,MF",25-085,1,0,1
+2024-2025 Manchester United,Harry Amass,DF,18-065,0,0,0
+2024-2025 Manchester United,Tyrell Malacia,DF,25-276,0,0,0
+2024-2025 Manchester United,Ayden Heaven,DF,18-240,0,0,0
+2024-2025 Manchester United,Chidozie Obi-Martin,FW,17-172,0,0,0
+2024-2025 Manchester United,Tyler Fredricson,DF,20-086,0,0,0
+2024-2025 Manchester United,Scott McTominay,MF,28-163,0,0,0
+2024-2025 Manchester United,Facundo Pellistri,"FW,MF",23-151,0,0,0
+2024-2025 Manchester United,Jadon Sancho,"FW,MF",25-056,0,0,0
+2024-2025 Manchester United,Ethan Wheatley,FW,19-120,0,0,0
+2024-2025 Manchester United,Elyh Harrison,GK,19-090,0,0,0
+2024-2025 Manchester United,Hubert Graczyk,GK,22-081,0,0,0
+2024-2025 Manchester United,Jack Moorhouse,MF,19-172,0,0,0
+2024-2025 Manchester United,Sekou Koné,MF,19-106,0,0,0
+2024-2025 Manchester United,Jayce Fitzgerald,MF,18-011,0,0,0
+2024-2025 Manchester United,Jack Fletcher,MF,18-062,0,0,0
+2024-2025 Manchester United,Godwill Kukonki,DF,17-103,0,0,0
+2024-2025 Manchester United,Habeeb Ogunneye,DF,20-128,0,0,0
+2024-2025 Manchester United,Daniel Gore,MF,20-236,0,0,0
+2024-2025 Manchester United,James Scanlon,MF,18-234,0,0,0
+2024-2025 Manchester United,Bendito Mantato,MF,17-115,0,0,0
+2024-2025 Manchester United,Jaydan Kamason,DF,18-163,0,0,0
+2024-2025 Manchester United,William Murdock,GK,17-359,0,0,0
+2024-2025 Manchester United,Tom Heaton,GK,39-035,0,0,0
+2024-2025 Manchester United,Dermot Mee,GK,22-181,0,0,0
+2024-2025 Nottingham Forest,Matz Sels,GK,33-083,0,0,0
+2024-2025 Nottingham Forest,Nikola Milenković,DF,27-220,5,2,7
+2024-2025 Nottingham Forest,Murillo,DF,22-320,2,0,2
+2024-2025 Nottingham Forest,Ola Aina,DF,28-224,2,1,3
+2024-2025 Nottingham Forest,Morgan Gibbs-White,MF,25-113,7,8,15
+2024-2025 Nottingham Forest,Chris Wood,FW,33-164,20,3,23
+2024-2025 Nottingham Forest,Elliot Anderson,MF,22-195,2,6,8
+2024-2025 Nottingham Forest,Neco Williams,DF,24-037,1,3,4
+2024-2025 Nottingham Forest,Anthony Elanga,"FW,MF",23-023,6,12,18
+2024-2025 Nottingham Forest,Callum Hudson-Odoi,"FW,MF",24-194,5,2,7
+2024-2025 Nottingham Forest,Ryan Yates,MF,27-180,4,1,5
+2024-2025 Nottingham Forest,Nicolás Domínguez,"MF,FW",26-326,0,1,1
+2024-2025 Nottingham Forest,Álex Moreno,"DF,MF",31-346,0,1,1
+2024-2025 Nottingham Forest,Jota Silva,"FW,MF",25-292,4,2,6
+2024-2025 Nottingham Forest,Morato,DF,23-324,0,0,0
+2024-2025 Nottingham Forest,Taiwo Awoniyi,FW,27-281,2,0,2
+2024-2025 Nottingham Forest,Ibrahim Sangaré,MF,27-169,0,3,3
+2024-2025 Nottingham Forest,Ramón Sosa,"FW,MF",25-262,3,1,4
+2024-2025 Nottingham Forest,Danilo,"MF,FW",24-021,0,0,0
+2024-2025 Nottingham Forest,James Ward-Prowse,MF,30-200,0,1,1
+2024-2025 Nottingham Forest,Willy Boly,DF,34-106,0,0,0
+2024-2025 Nottingham Forest,Harry Toffolo,DF,29-274,0,0,0
+2024-2025 Nottingham Forest,Eric da Silva Moreira,"MF,DF",19-017,0,0,0
+2024-2025 Nottingham Forest,Carlos Miguel,GK,26-223,0,0,0
+2024-2025 Nottingham Forest,Zach Abbott,DF,19-007,0,0,0
+2024-2025 Nottingham Forest,Andrew Omobamidele,DF,22-331,0,0,0
+2024-2025 Nottingham Forest,Wayne Hennessey,GK,38-116,0,0,0
+2024-2025 Nottingham Forest,Matt Turner,GK,30-330,0,0,0
+2024-2025 Nottingham Forest,Ben Perry,MF,20-221,0,0,0
+2024-2025 Fulham,Bernd Leno,GK,33-078,0,1,1
+2024-2025 Fulham,Calvin Bassey,DF,25-141,2,0,2
+2024-2025 Fulham,Antonee Robinson,DF,27-286,0,10,10
+2024-2025 Fulham,Alex Iwobi,"FW,MF",29-018,9,6,15
+2024-2025 Fulham,Joachim Andersen,DF,28-355,1,1,2
+2024-2025 Fulham,Raúl Jiménez,FW,34-016,14,3,17
+2024-2025 Fulham,Sander Berge,MF,27-096,0,0,0
+2024-2025 Fulham,Saša Lukić,MF,28-281,0,2,2
+2024-2025 Fulham,Andreas Pereira,MF,29-140,2,5,7
+2024-2025 Fulham,Timothy Castagne,DF,29-167,1,1,2
+2024-2025 Fulham,Emile Smith Rowe,MF,24-297,6,3,9
+2024-2025 Fulham,Adama Traoré,"FW,MF",29-116,2,8,10
+2024-2025 Fulham,Kenny Tete,DF,29-224,0,2,2
+2024-2025 Fulham,Issa Diop,DF,28-132,0,0,0
+2024-2025 Fulham,Rodrigo Muniz,FW,24-017,11,2,13
+2024-2025 Fulham,Harry Wilson,"FW,MF",28-060,6,1,7
+2024-2025 Fulham,Ryan Sessegnon,"FW,DF",25-003,4,4,8
+2024-2025 Fulham,Tom Cairney,MF,34-121,2,0,2
+2024-2025 Fulham,Jorge Cuenca,DF,25-185,0,0,0
+2024-2025 Fulham,Reiss Nelson,FW,25-162,2,1,3
+2024-2025 Fulham,Harrison Reed,MF,30-114,0,0,0
+2024-2025 Fulham,Steven Benda,GK,26-232,0,0,0
+2024-2025 Fulham,Willian,"FW,MF",36-285,0,0,0
+2024-2025 Fulham,Joshua King,MF,18-138,0,0,0
+2024-2025 Fulham,Martial Godo,"FW,DF",22-068,0,1,1
+2024-2025 Fulham,Jay Stansfield,MF,22-178,1,0,1
+2024-2025 Fulham,Carlos Vinícius,"MF,FW",30-057,0,0,0
+2024-2025 Fulham,Samuel Amissah,DF,18-075,0,0,0
+2024-2025 Southampton,Mateus Fernandes,MF,20-315,3,5,8
+2024-2025 Southampton,Taylor Harwood-Bellis,DF,23-111,3,0,3
+2024-2025 Southampton,Kyle Walker-Peters,DF,28-038,0,2,2
+2024-2025 Southampton,Jan Bednarek,DF,29-039,2,0,2
+2024-2025 Southampton,Aaron Ramsdale,GK,27-007,0,0,0
+2024-2025 Southampton,Joe Aribo,"MF,DF",28-304,3,0,3
+2024-2025 Southampton,Tyler Dibling,"FW,MF",19-070,4,2,6
+2024-2025 Southampton,Flynn Downes,MF,26-121,1,0,1
+2024-2025 Southampton,Lesley Ugochukwu,MF,21-056,1,2,3
+2024-2025 Southampton,Ryan Manning,"DF,MF",28-341,0,1,1
+2024-2025 Southampton,Cameron Archer,FW,23-304,5,0,5
+2024-2025 Southampton,Yukinari Sugawara,"DF,MF",24-327,1,1,2
+2024-2025 Southampton,James Bree,DF,27-222,2,1,3
+2024-2025 Southampton,Kamaldeen Sulemana,"FW,MF",23-095,2,3,5
+2024-2025 Southampton,Adam Armstrong,"FW,MF",28-100,3,2,5
+2024-2025 Southampton,Jack Stephens,DF,31-114,1,0,1
+2024-2025 Southampton,Paul Onuachu,FW,30-358,4,1,5
+2024-2025 Southampton,Nathan Wood-Gordon,DF,22-355,0,0,0
+2024-2025 Southampton,Alex McCarthy,GK,35-169,0,0,0
+2024-2025 Southampton,William Smallbone,MF,25-089,1,0,1
+2024-2025 Southampton,Ben Brereton,FW,26-033,0,0,0
+2024-2025 Southampton,Welington,"DF,MF",24-091,0,0,0
+2024-2025 Southampton,Charlie Taylor,DF,31-245,0,2,2
+2024-2025 Southampton,Adam Lallana,MF,37-011,0,2,2
+2024-2025 Southampton,Ryan Fraser,"FW,DF",31-086,0,0,0
+2024-2025 Southampton,Joe Lumley,GK,30-095,0,0,0
+2024-2025 Southampton,Armel Bella Kotchap,DF,23-161,0,0,0
+2024-2025 Southampton,Ross Stewart,FW,28-314,0,0,0
+2024-2025 Southampton,Maxwel Cornet,FW,28-236,0,0,0
+2024-2025 Southampton,Samuel Edozie,"DF,FW",22-113,0,0,0
+2024-2025 Southampton,Albert Grønbaek,"FW,MF",23-363,0,0,0
+2024-2025 Southampton,Samuel Amo-Ameyaw,"FW,DF",18-307,1,0,1
+2024-2025 Southampton,Ronnie Edwards,DF,22-054,0,0,0
+2024-2025 Southampton,Jay Robinson,"FW,MF",18-067,0,0,0
+2024-2025 Southampton,Carlos Alcaraz,MF,22-172,0,0,0
+2024-2025 Southampton,Joachim Kayi Sanda,DF,18-173,0,0,0
+2024-2025 Southampton,Romeo Akachukwu,MF,18-297,0,0,0
+2024-2025 Southampton,Joe O'Brien-Whitmarsh,FW,,0,0,0
+2024-2025 Southampton,Juan Larios,DF,21-129,0,0,0
+2024-2025 Southampton,Jayden Moore,DF,,0,0,0
+2024-2025 Tottenham Hotspur,Pedro Porro,DF,25-249,4,9,13
+2024-2025 Tottenham Hotspur,Dejan Kulusevski,"MF,FW",25-025,10,11,21
+2024-2025 Tottenham Hotspur,Dominic Solanke,FW,27-248,15,8,23
+2024-2025 Tottenham Hotspur,Archie Gray,"DF,MF",19-069,0,0,0
+2024-2025 Tottenham Hotspur,Son Heung-min,FW,32-316,11,11,22
+2024-2025 Tottenham Hotspur,Brennan Johnson,FW,23-362,17,4,21
+2024-2025 Tottenham Hotspur,Guglielmo Vicario,GK,28-225,0,0,0
+2024-2025 Tottenham Hotspur,Rodrigo Bentancur,MF,27-329,2,1,3
+2024-2025 Tottenham Hotspur,Pape Matar Sarr,MF,22-248,6,2,8
+2024-2025 Tottenham Hotspur,James Maddison,MF,28-178,12,10,22
+2024-2025 Tottenham Hotspur,Destiny Udogie,DF,22-173,0,1,1
+2024-2025 Tottenham Hotspur,Djed Spence,DF,24-284,2,3,5
+2024-2025 Tottenham Hotspur,Yves Bissouma,MF,28-263,2,0,2
+2024-2025 Tottenham Hotspur,Lucas Bergvall,MF,19-107,1,2,3
+2024-2025 Tottenham Hotspur,Radu Drăgușin,DF,23-106,0,0,0
+2024-2025 Tottenham Hotspur,Ben Davies,DF,32-026,0,0,0
+2024-2025 Tottenham Hotspur,Cristian Romero,DF,27-023,1,1,2
+2024-2025 Tottenham Hotspur,Micky van de Ven,DF,24-031,0,2,2
+2024-2025 Tottenham Hotspur,Mathys Tel,FW,20-023,3,1,4
+2024-2025 Tottenham Hotspur,Fraser Forster,GK,37-064,0,0,0
+2024-2025 Tottenham Hotspur,Kevin Danso,DF,26-243,0,0,0
+2024-2025 Tottenham Hotspur,Wilson Odobert,"FW,MF",20-173,3,0,3
+2024-2025 Tottenham Hotspur,Timo Werner,"FW,MF",29-075,1,3,4
+2024-2025 Tottenham Hotspur,Antonín Kinský,GK,22-068,0,0,0
+2024-2025 Tottenham Hotspur,Richarlison,FW,28-010,5,2,7
+2024-2025 Tottenham Hotspur,Mikey Moore,FW,17-282,1,2,3
+2024-2025 Tottenham Hotspur,Sergio Reguilón,DF,28-155,0,0,0
+2024-2025 Tottenham Hotspur,Brandon Austin,GK,26-132,0,0,0
+2024-2025 Tottenham Hotspur,Will Lankshear,"FW,MF",20-030,1,0,1
+2024-2025 Tottenham Hotspur,Dane Scarlett,"FW,MF",21-057,1,2,3
+2024-2025 Tottenham Hotspur,Alfie Dorrington,DF,20-030,0,0,0
+2024-2025 Tottenham Hotspur,Oyindamola Ajayi,FW,19-144,1,0,1
+2024-2025 Tottenham Hotspur,Callum Olusesi,MF,18-123,0,0,0
+2024-2025 Tottenham Hotspur,Yang Minhyeok,MF,19-034,0,0,0
+2024-2025 Tottenham Hotspur,Maeson King,DF,19-253,0,0,0
+2024-2025 Tottenham Hotspur,Dante Cassanova,DF,20-333,0,0,0
+2024-2025 Tottenham Hotspur,Alfie Whiteman,GK,26-230,0,0,0
+2024-2025 Tottenham Hotspur,Alfie Devine,MF,20-292,0,0,0
+2024-2025 Tottenham Hotspur,Malachi Hardy,DF,17-071,0,0,0
+2024-2025 Tottenham Hotspur,Luca Williams Barnett,FW,16-231,0,0,0
+2024-2025 Tottenham Hotspur,Rio Kyerematen,DF,19-345,0,0,0
+2024-2025 Norwich City,Shane Duffy,DF,33-140,4,0,4
+2024-2025 Norwich City,Borja Sainz,FW,24-109,19,4,23
+2024-2025 Norwich City,Callum Doyle,DF,21-230,1,7,8
+2024-2025 Norwich City,Kenny McLean,"MF,DF",33-133,0,4,4
+2024-2025 Norwich City,Angus Gunn,GK,29-119,0,0,0
+2024-2025 Norwich City,Kellen Fisher,"DF,MF",21-016,0,4,4
+2024-2025 Norwich City,Ante Crnac,FW,21-155,7,4,11
+2024-2025 Norwich City,Josh Sargent,FW,25-090,15,5,20
+2024-2025 Norwich City,Marcelino Núñez,MF,25-081,6,4,10
+2024-2025 Norwich City,Jack Stacey,DF,29-045,2,7,9
+2024-2025 Norwich City,José Cordoba,DF,24-076,1,0,1
+2024-2025 Norwich City,Emiliano Marcondes,"MF,FW",30-073,5,6,11
+2024-2025 Norwich City,Anis Ben Slimane,MF,24-066,2,2,4
+2024-2025 Norwich City,Oscar Schwartau,"FW,MF",19-004,1,0,1
+2024-2025 Norwich City,Jakob Sørensen,"MF,DF",27-079,0,0,0
+2024-2025 Norwich City,Benjamin Chrisene,DF,21-129,1,0,1
+2024-2025 Norwich City,George Long,GK,31-197,0,0,0
+2024-2025 Norwich City,Jacob Wright,MF,19-242,0,4,4
+2024-2025 Norwich City,Onel Hernández,"FW,MF",32-109,2,4,6
+2024-2025 Norwich City,Amankwah Forson,"MF,FW",22-141,2,3,5
+2024-2025 Norwich City,Lewis Dobbin,FW,22-138,2,0,2
+2024-2025 Norwich City,Lucien Mahovo,DF,19-348,0,0,0
+2024-2025 Norwich City,Liam Gibbs,"MF,FW",22-156,0,0,0
+2024-2025 Norwich City,Vicente Reyes,GK,21-183,0,0,0
+2024-2025 Norwich City,Gabriel Forsyth,"MF,FW",18-290,0,0,0
+2024-2025 Norwich City,Ruairi Mcconville,DF,20-020,0,0,0
+2024-2025 Norwich City,Kaide Gordon,"FW,MF",20-228,1,0,1
+2024-2025 Norwich City,Ashley Barnes,"FW,MF",35-203,0,0,0
+2024-2025 Norwich City,Grant Hanley,DF,33-182,0,0,0
+2024-2025 Norwich City,Brad Hills,DF,21-072,0,0,0
+2024-2025 Norwich City,Abu Kamara,FW,21-304,1,1,2
+2024-2025 Norwich City,Matěj Jurásek,"FW,MF",21-264,0,0,0
+2024-2025 Norwich City,Christian Fassnacht,"FW,DF",31-191,0,0,0
+2024-2025 Norwich City,Jaden Warner,DF,22-205,0,0,0
+2024-2025 Norwich City,Elliot Myles,MF,18-121,0,0,0
+2024-2025 Norwich City,Adam Idah,FW,24-099,0,0,0
+2024-2025 Norwich City,Uriah Djedje,MF,19-066,0,0,0
+2024-2025 Norwich City,Errol Mundle-Smith,FW,19-063,0,0,0
+2024-2025 Norwich City,Dylan Jones,FW,,0,0,0
+2024-2025 Norwich City,Archie Mair,GK,24-100,0,0,0
+2024-2025 Norwich City,Aidan Bridge,MF,20-061,0,0,0
+2024-2025 Norwich City,Ken Aboh,FW,20-193,0,0,0
+2024-2025 Norwich City,Tony Springett,MF,22-241,0,0,0
+2024-2025 Norwich City,Daniel Barden,GK,24-139,0,0,0
+2024-2025 Sheffield United,Michael Cooper,GK,25-225,0,0,0
+2024-2025 Sheffield United,Harrison Burrows,DF,23-129,5,3,8
+2024-2025 Sheffield United,Anel Ahmedhodžić,DF,26-056,3,1,4
+2024-2025 Sheffield United,Gustavo Hamer,"FW,MF",27-331,9,7,16
+2024-2025 Sheffield United,Callum O'Hare,"MF,FW",27-020,2,6,8
+2024-2025 Sheffield United,Sydie Peck,MF,20-250,0,3,3
+2024-2025 Sheffield United,Jack Robinson,DF,31-262,0,0,0
+2024-2025 Sheffield United,Vinicius Souza,MF,25-338,0,1,1
+2024-2025 Sheffield United,Alfie Gilchrist,DF,21-174,0,2,2
+2024-2025 Sheffield United,Harry Souttar,DF,26-211,0,0,0
+2024-2025 Sheffield United,Rhian Brewster,"MF,FW",25-050,4,3,7
+2024-2025 Sheffield United,Jesurun Rak Sakyi,"FW,MF",22-228,7,2,9
+2024-2025 Sheffield United,Kieffer Moore,FW,32-286,5,0,5
+2024-2025 Sheffield United,Tyrese Campbell,FW,25-144,10,1,11
+2024-2025 Sheffield United,Sam McCallum,"DF,MF",24-261,2,0,2
+2024-2025 Sheffield United,Femi Seriki,DF,23-023,0,1,1
+2024-2025 Sheffield United,Hamza Choudhury,"MF,DF",27-232,0,0,0
+2024-2025 Sheffield United,Andre Brooks,"FW,MF",21-274,3,2,5
+2024-2025 Sheffield United,Ben Brereton,"FW,MF",26-033,4,3,7
+2024-2025 Sheffield United,Oliver Arblaster,MF,21-016,2,1,3
+2024-2025 Sheffield United,Thomas Cannon,FW,22-144,1,1,2
+2024-2025 Sheffield United,Tom Davies,MF,26-325,1,1,2
+2024-2025 Sheffield United,Harry Clarke,DF,24-080,0,0,0
+2024-2025 Sheffield United,Adam Davies,GK,32-308,0,0,0
+2024-2025 Sheffield United,Rob Holding,DF,29-243,0,1,1
+2024-2025 Sheffield United,Ryan One,FW,18-329,1,0,1
+2024-2025 Sheffield United,Rhys Norrington-Davies,DF,26-029,0,0,0
+2024-2025 Sheffield United,Jamie Shackleton,"DF,FW",25-225,0,0,0
+2024-2025 Sheffield United,Louie Marsh,FW,21-217,1,0,1
+2024-2025 Sheffield United,Auston Trusty,DF,26-282,1,0,1
+2024-2025 Sheffield United,Ismaila Cheick Coulibaly,MF,24-147,0,0,0
+2024-2025 Sheffield United,Owen Hampson,MF,20-185,0,0,0
+2024-2025 Sheffield United,Anis Ben Slimane,MF,24-066,1,0,1
+2024-2025 Sheffield United,Jamal Baptiste,DF,21-191,0,0,0
+2024-2025 Sheffield United,Billy Blacker,MF,18-361,0,0,0
+2024-2025 Sheffield United,Sai Sachdev,DF,20-073,0,0,0
+2024-2025 Sheffield United,Ivo Grbić,GK,29-123,0,0,0
+2024-2025 Sheffield United,Harry Boyes,MF,23-200,0,0,0
+2024-2025 Sheffield United,Sam Colechin,DF,,0,0,0
+2024-2025 Sheffield United,Jefferson Cáceres,FW,22-272,0,0,0
+2024-2025 Sheffield United,Luke Faxon,GK,20-095,0,0,0
+2024-2025 Sheffield United,Sam Aston,MF,,0,0,0
+2024-2025 Crystal Palace,Marc Guéhi,DF,24-311,3,2,5
+2024-2025 Crystal Palace,Daniel Muñoz,DF,28-359,6,7,13
+2024-2025 Crystal Palace,Dean Henderson,GK,28-069,0,1,1
+2024-2025 Crystal Palace,Tyrick Mitchell,DF,25-261,0,5,5
+2024-2025 Crystal Palace,Maxence Lacroix,DF,25-044,1,1,2
+2024-2025 Crystal Palace,Jean-Philippe Mateta,FW,27-326,17,4,21
+2024-2025 Crystal Palace,Eberechi Eze,"MF,FW",26-325,14,11,25
+2024-2025 Crystal Palace,Ismaila Sarr,MF,27-084,10,6,16
+2024-2025 Crystal Palace,Jefferson Lerma,"MF,DF",30-207,0,1,1
+2024-2025 Crystal Palace,Chris Richards,DF,25-053,1,1,2
+2024-2025 Crystal Palace,Will Hughes,MF,30-033,0,4,4
+2024-2025 Crystal Palace,Daichi Kamada,MF,28-288,2,3,5
+2024-2025 Crystal Palace,Adam Wharton,MF,20-352,0,3,3
+2024-2025 Crystal Palace,Eddie Nketiah,"FW,MF",25-355,5,2,7
+2024-2025 Crystal Palace,Trevoh Chalobah,DF,25-319,3,0,3
+2024-2025 Crystal Palace,Nathaniel Clyne,"DF,MF",34-045,0,1,1
+2024-2025 Crystal Palace,Justin Devenny,MF,21-221,2,0,2
+2024-2025 Crystal Palace,Cheick Doucouré,MF,25-132,0,0,0
+2024-2025 Crystal Palace,Matt Turner,GK,30-330,0,0,0
+2024-2025 Crystal Palace,Ben Chilwell,DF,28-150,0,0,0
+2024-2025 Crystal Palace,Chadi Riad,DF,21-337,0,0,0
+2024-2025 Crystal Palace,Jeffrey Schlupp,"MF,DF",32-148,0,0,0
+2024-2025 Crystal Palace,Odsonne Édouard,"MF,FW",27-124,0,0,0
+2024-2025 Crystal Palace,Romain Esse,MF,20-007,1,0,1
+2024-2025 Crystal Palace,Joachim Andersen,DF,28-354,0,0,0
+2024-2025 Crystal Palace,Caleb Kporha,DF,18-309,0,0,0
+2024-2025 Crystal Palace,Matheus França,"FW,MF",21-049,1,0,1
+2024-2025 Crystal Palace,Jordan Ayew,"FW,MF",33-251,0,0,0
+2024-2025 Crystal Palace,Joel Ward,DF,35-203,0,0,0
+2024-2025 Crystal Palace,Asher Agbinone,MF,19-234,0,0,0
+2024-2025 Crystal Palace,Sam Johnstone,GK,32-056,0,0,0
+2024-2025 Crystal Palace,Franco Umeh-Chibueze,MF,20-114,0,0,0
+2024-2025 Crystal Palace,Kaden Rodney,"DF,MF",20-225,0,0,0
+2024-2025 Crystal Palace,Naouirou Ahamada,MF,23-052,0,0,0
+2024-2025 Crystal Palace,Remi Matthews,GK,31-099,0,0,0
+2024-2025 Crystal Palace,Zachariah Marsh,FW,19-226,0,0,0
+2024-2025 Crystal Palace,Rob Holding,DF,29-242,0,0,0
