@@ -1,7 +1,7 @@
 import streamlit as st
 from app.chatbot import handle_query  # ✅ Assuming handle_query is defined in app/chatbot/__init__.py or a .py file inside
 
-st.title("⚽ Football ChatBot")
+st.title("⚽ 2024-25 Premier League ChatBot")
 
 # Initialize chat history
 if "chat_history" not in st.session_state:
@@ -23,5 +23,7 @@ if user_input:
 # Display chat history
 for speaker, message in st.session_state.chat_history:
     st.markdown(f"**{speaker}:** {message}")
+ 
+
 
 

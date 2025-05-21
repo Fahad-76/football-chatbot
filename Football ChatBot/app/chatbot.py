@@ -60,7 +60,7 @@ def get_top_players(stat="goals", title="🏆 Top Players", limit=10):
         top_df = df.sort_values(by=stat, ascending=False).head(limit)
         lines = [f"{title}:\n"]
         for i, row in enumerate(top_df.itertuples(), 1):
-            lines.append(f"{i}. {row.player} ({row.team}) - {getattr(row, stat)} {stat}")
+            lines.append(f"{i}. {row.player}\n ({row.team})\n - {getattr(row, stat)}\n {stat}\n")
         return "\n".join(lines)
     except Exception as e:
         return f"❌ Failed to fetch top {stat} players: {e}"
